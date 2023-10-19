@@ -1,0 +1,6 @@
+Slovakia,Bratislava,5 460 000,white blue red,Europe
+Bulgaria,Sofia,6 440 000,white green red,Europe
+Hungary,Budapest,9 678 000,red white green,Europe
+Denmark,Copenhagen,5 940 000,red white,Europe
+Austria,Vienna,9 030 000,red white,Europe
+Croatia,Zagreb,red white blue,Europe

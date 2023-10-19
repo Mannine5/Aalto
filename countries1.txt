@@ -1,0 +1,18 @@
+China,Beijing,1 455 000 000,red yellow,Asia
+Sweden,Stockholm,10 420 000,blue yellow,Europe
+Ecuador,Quito,17 800 000,yellow red blue,South America
+Ethiopia,Addis Ababa,116 000 000,green yellow red,Africa
+Lithuania,Vilnius,2 800 000,yellow green red,Europe
+Belgium,Brussels,11 500 000,black yellow red,Europe
+Montenegro,Podgorica,620 000,red gold,Europe
+Romania,Bucharest,19 400 000,blue yellow red,Europe
+Norway,Oslo,5 400 000,red white blue,Europe
+Lebanon,Beirut,6 800 000,red white green,Asia
+Thailand,Bangkok,69 000 000,red white blue,Asia
+Uzbekistan,Tashkent,34 000 000,blue white green,Asia
+Sri Lanka,Colombo,21 800 000,saffron green maroon,Asia
+Mongolia,Ulaanbaatar,3 300 000,red blue gold,Asia
+Ghana,Accra,30 000 000,red gold green black,Africa
+Angola,Luanda,32 900 000,red black yellow,Africa
+Morocco,Rabat,36 900 000,red green,Africa
+Mali,Bamako,20 000 000,green yellow red,Africa

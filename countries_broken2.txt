@@ -1,0 +1,6 @@
+Brazil,Brasilia,213 000 000,green yellow blue white,South America
+Jamaica,Kingston,2 900 000,black,green,gold,North America
+Argentina,Buenos Aires,45 000 000,blue white,South America
+Chile,Santiago,19 500 000,red white blue,South America
+Haiti,Port-au-Prince,11 000 000,blue red,North America
+Costa Rica,San Jose,5 100 000,blue white red,North America

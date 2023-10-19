@@ -1,0 +1,15 @@
+Thailand,Bangkok,69 000 000,red white blue,Asia
+Angola,Luanda,32 900 000,red black with a yellow symbol,Africa
+Jamaica,Kingston,2 900 000,black green gold,North America
+Lebanon,Beirut,6 800 000,red white green,Asia
+Mali,Bamako,20 000 000,green yellow red,Africa
+Canada,Ottawa,38 000 000,red white,North America
+Guyana,Georgetown,800 000,green yellow red white,North America
+Kenya,Nairobi,53 000 000,black red green,Africa
+South Korea,Seoul,51 000 000,white blue red,Asia
+Nigeria,Abuja,206 000 000,green white green,Africa
+Australia,Canberra,25 800 000,blue white red,Oceania
+Czech Republic,Prague,10 700 000,white red blue,Europe
+Egypt,Cairo,104 000 000,red white black,Africa
+Panama,Panama City,4 300 000,red white blue,North America
+Malaysia,Kuala Lumpur,32 900 000,red white blue yellow,Asia
