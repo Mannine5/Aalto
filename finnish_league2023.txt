@@ -1,0 +1,132 @@
+1-1, IFK Mariehamn-Ilves
+0-2, KTP-AC Oulu
+1-2, KuPS-FC Inter
+2-1, SJK-FC Haka
+0-0, VPS-FC Lahti
+2-0, HJK-FC Honka
+2-2, FC Haka-AC Oulu
+0-0, KTP-KuPS
+2-1, Ilves-FC Inter
+0-0, FC Honka-SJK
+0-1, VPS-HJK
+2-3, IFK Mariehamn-FC Lahti
+4-0, HJK-VPS
+0-1, KuPS-FC Honka
+2-1, KTP-IFK Mariehamn
+0-0, SJK-FC Lahti
+1-0, KuPS-Ilves
+1-1, HJK-AC Oulu
+1-1, FC Haka-FC Honka
+2-0, HJK-FC Haka
+0-3, AC Oulu-SJK
+1-0, Ilves-KTP
+0-0, VPS-FC Honka
+0-2, IFK Mariehamn-KuPS
+4-2, FC Haka-KTP
+3-0, FC Honka-FC Lahti
+1-2, Ilves-AC Oulu
+2-1, SJK-FC Inter
+2-1, VPS-IFK Mariehamn
+2-1, KuPS-HJK
+0-2, AC Oulu-KuPS
+0-2, FC Honka-FC Haka
+3-3, KTP-HJK
+0-0, FC Lahti-KTP
+0-1, FC Honka-KuPS
+2-1, AC Oulu-VPS
+4-1, HJK-FC Inter
+1-0, SJK-Ilves
+2-1, IFK Mariehamn-FC Haka
+2-0, KuPS-FC Lahti
+1-1, Ilves-HJK
+1-3, AC Oulu-FC Honka
+2-2, FC Haka-VPS
+1-1, FC Inter-IFK Mariehamn
+0-2, KTP-SJK
+0-1, FC Honka-KTP
+3-0, FC Inter-FC Haka
+1-2, FC Lahti-AC Oulu
+1-0, SJK-KuPS
+0-2, VPS-Ilves
+0-0, IFK Mariehamn-HJK
+2-0, FC Inter-FC Honka
+3-2, AC Oulu-IFK Mariehamn
+0-0, HJK-SJK
+1-0, KTP-VPS
+3-0, KuPS-FC Haka
+2-2, Ilves-FC Lahti
+1-1, FC Haka-Ilves
+2-1, FC Honka-IFK Mariehamn
+2-1, FC Inter-KTP
+1-2, FC Lahti-HJK
+1-0, KuPS-AC Oulu
+2-1, SJK-VPS
+1-1, AC Oulu-FC Inter
+1-1, Ilves-FC Honka
+1-0, FC Lahti-FC Haka
+1-0, HJK-KTP
+0-2, IFK Mariehamn-SJK
+0-2, VPS-KuPS
+1-1, FC Haka-HJK
+1-0, FC Honka-VPS
+2-1, FC Inter-Ilves
+2-0, KTP-FC Lahti
+0-1, KuPS-IFK Mariehamn
+1-4, SJK-AC Oulu
+1-1, FC Honka-HJK
+3-0, AC Oulu-FC Haka
+1-1, Ilves-SJK
+3-0, VPS-FC Inter
+0-0, IFK Mariehamn-KTP
+3-4, FC Lahti-KuPS
+0-1, HJK-FC Lahti
+2-2, FC Haka-FC Inter
+0-0, KTP-Ilves
+0-1, KuPS-VPS
+1-0, SJK-FC Honka
+1-2, IFK Mariehamn-AC Oulu
+0-2, FC Inter-VPS
+0-0, Ilves-IFK Mariehamn
+3-0, VPS-AC Oulu
+1-1, FC Lahti-SJK
+1-1, FC Inter-KuPS
+3-1, AC Oulu-KTP
+1-2, FC Inter-SJK
+1-0, HJK-Ilves
+0-2, FC Lahti-IFK Mariehamn
+4-1, VPS-FC Haka
+0-2, Ilves-VPS
+1-2, SJK-HJK
+1-1, FC Haka-FC Lahti
+4-1, FC Honka-AC Oulu
+2-0, KuPS-KTP
+0-2, IFK Mariehamn-FC Inter
+1-2, Ilves-FC Haka
+4-2, HJK-IFK Mariehamn
+1-0, FC Lahti-FC Honka
+1-4, KTP-FC Inter
+3-2, VPS-SJK
+1-1, FC Haka-IFK Mariehamn
+1-1, AC Oulu-FC Lahti
+1-0, FC Honka-FC Inter
+0-3, Ilves-KuPS
+2-3, SJK-KTP
+0-2, FC Lahti-VPS
+0-1, IFK Mariehamn-FC Honka
+0-3, AC Oulu-Ilves
+1-3, FC Inter-HJK
+3-0, KuPS-SJK
+1-2, KTP-FC Haka
+2-1, VPS-KTP
+2-1, FC Inter-FC Lahti
+3-2, SJK-IFK Mariehamn
+2-2, FC Haka-KuPS
+2-0, FC Honka-Ilves
+1-3, AC Oulu-HJK
+1-2, FC Lahti-FC Inter
+1-0, FC Haka-SJK
+2-1, FC Inter-AC Oulu
+3-2, FC Lahti-Ilves
+2-2, HJK-KuPS
+1-2, IFK Mariehamn-VPS
+1-2, KTP-FC Honka
